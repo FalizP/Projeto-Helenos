@@ -1,14 +1,21 @@
+:root {
+    --main: #ffc107;
+}
+
 #home {
-    background-color: #ffc107;
+    background-color: var(--main);
     color: #fff;
 }
 
 .caixa {
-    padding: 60px 0;
+    padding: 3.75rem 0;
     border-bottom: 1px solid #e5e5e5;
 }
 
-footer p a {
-    margin: 5px 15px;
+.espacador {
+    margin: 2rem 0;
 }
 
+footer p a {
+    margin: 0.3125rem 0.9375rem;
+}
