@@ -19,3 +19,9 @@
 footer p a {
     margin: 0.3125rem 0.9375rem;
 }
+
+
+hr.linha {
+    margin: 0.3125rem 0;
+    padding: 0.0938rem 0;
+}
