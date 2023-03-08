@@ -1,3 +1,12 @@
+body {
+    background: rgb(230, 224, 224);
+}
+
+.container .card {
+    background-color: rgb(220, 211, 161);
+    border-radius: 10px;
+}
+
 :root {
     --main: #ffc107;
 }
@@ -20,8 +29,12 @@ footer p a {
     margin: 0.3125rem 0.9375rem;
 }
 
+footer .container {
+    margin: auto 0;
+}
 
 hr.linha {
+    color: var(--main);
     margin: 0.3125rem 0;
-    padding: 0.0938rem 0;
+    height: 3px;
 }
