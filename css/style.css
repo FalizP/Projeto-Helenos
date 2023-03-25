@@ -1,10 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: rgb(230, 224, 224);
 }
 
 .container .card {
+    padding: 0.9375rem;
     background-color: rgb(220, 211, 161);
-    border-radius: 10px;
+    border-radius: 0.625rem;
 }
 
 :root {
@@ -36,5 +41,5 @@ footer .container {
 hr.linha {
     color: var(--main);
     margin: 0.3125rem 0;
-    height: 3px;
+    height: 0.1875rem;
 }
