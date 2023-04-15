@@ -1,45 +1,39 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    background: rgb(230, 224, 224);
-}
-
-.container .card {
-    padding: 0.9375rem;
-    background-color: rgb(220, 211, 161);
-    border-radius: 0.625rem;
-}
-
-:root {
-    --main: #ffc107;
-}
-
-#home {
-    background-color: var(--main);
-    color: #fff;
-}
-
-.caixa {
-    padding: 3.75rem 0;
-    border-bottom: 1px solid #e5e5e5;
-}
-
-.espacador {
-    margin: 2rem 0;
-}
-
-footer p a {
-    margin: 0.3125rem 0.9375rem;
-}
-
-footer .container {
-    margin: auto 0;
+  background: rgb(230, 224, 224);
 }
 
 hr.linha {
-    color: var(--main);
-    margin: 0.3125rem 0;
-    height: 0.1875rem;
+  color: #fdc107;
+  margin: 0.3125rem 0;
+  height: 0.1875rem;
 }
+
+footer .container {
+  margin: auto 0;
+}
+footer p a {
+  margin: 0.3125rem 0.9375rem;
+}
+
+#home {
+  background: #fdc107;
+}
+
+.container .card {
+  padding: 0.9375rem;
+  background: rgb(220, 211, 161);
+  border-radius: 0.625rem;
+}
+
+.espacador {
+  margin: 2rem 0;
+}
+
+.caixa {
+  padding: 3.75rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}/*# sourceMappingURL=style.css.map */
