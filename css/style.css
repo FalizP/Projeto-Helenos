@@ -20,7 +20,7 @@ footer p a {
 }
 
 #home {
-  background: #fdc107;
+  background: rgb(220, 211, 161);
 }
 
 .container .card {
@@ -36,4 +36,4 @@ footer p a {
 .caixa {
   padding: 3.75rem 0;
   border-bottom: 1px solid #e5e5e5;
-}
+}/*# sourceMappingURL=style.css.map */
